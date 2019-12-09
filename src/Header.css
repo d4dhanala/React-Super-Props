@@ -1,0 +1,10 @@
+.banner{
+    background: url(./banner.png);
+    background-position: center top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 20rem;
+}
+h1, p{
+    margin:3rem;
+}
