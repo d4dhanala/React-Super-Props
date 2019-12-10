@@ -6,7 +6,7 @@ React Components Practice
 
 - Clone or Fork this Repo.  Run npm install to add node_modules.
 
-- Run `yarn start` and make sure your page loads.
+- Run `npm start` and make sure your page loads.
 
 ## Instructions
 
