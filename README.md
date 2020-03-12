@@ -10,7 +10,7 @@ React Components Practice
 
 ## Instructions
 
-- [ ] Create a SuperHeroe class. It should contain the following properties: 
+- [ ] Create a SuperHero class. It should contain the following properties: 
   ```js
   id
   name
